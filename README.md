@@ -7,3 +7,6 @@ The repository is organised as follows:
 - The `TakeMeasurementData.m` file captures frames from the Radar sensor and images from the Camera module.
 - The `Test_read_Data2.m` file evaluates the sensor measurements.
 - The `plotData.m` file compares the data acquired from the Radar and the Camera.
+
+To run the code you will need to install:
+- [MATLAB](https://ch.mathworks.com/products/matlab.html)
