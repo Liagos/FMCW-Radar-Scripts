@@ -4,6 +4,6 @@ This repository contains the code for the project "**Sensor Data Evaluation and 
 
 The repository is organised as follows:
 - The `AcquireRadarData.m` file configures the radar to transfer data to a PC host.
-- The `TakeMeasurementData.m` file is used to capture frames from tha Radar sensor and image from the Camera module.
+- The `TakeMeasurementData.m` file captures frames from the Radar sensor and images from the Camera module.
 - The `Test_read_Data2.m` file is used to evaluate our measurments
 - The `plotData.m` file is used to compare the data acquired from the Radar and the Camera.
